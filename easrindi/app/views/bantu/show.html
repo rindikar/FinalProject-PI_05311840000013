@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+ 
+{% block title %}Show Bantuan{% endblock %}
+ 
+{% block body %}
+ 
+<div class="container mt-4">
+    <h1>Show Bantuan</h1>
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">{{ bantu['nama'] }}</h5>
+            <h6 class="card-subtitle mb-2 text-muted"> {{ bantu['nama_bantuan'] }}</h6>
+            <p class="text">{{ bantu['jumlah_bantuan'] }}</p>
+            <a href="{{ BASE_URL }}/bantu">Kembali</a>
+        </div>
+    </div>
+</div>
+ 
+{% endblock %}
