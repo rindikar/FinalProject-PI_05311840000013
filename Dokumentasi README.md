@@ -10,7 +10,14 @@ Nama : Rindi Kartika Sari (05311840000013)
 
     ![Screenshot (613)](https://user-images.githubusercontent.com/49342639/82148050-34f41700-987c-11ea-854b-854179258980.png)
     
-3.  Kemudian, Donatur dapat memilih pilihan __Tambahkan bantuan__ pada __Halaman Bantu__ tersebut <br>
+3.  Kemudian, Donatur dapat memilih pilihan __Tambahkan bantuan__ pada __Halaman Bantu__ tersebut. Apabila sudah memasukkan data, maka Donatur dapat melakukan __Tambah data__ sehingga data donatur akan masuk ke dalam Database <br>
 
     ![Screenshot (614)](https://user-images.githubusercontent.com/49342639/82148108-869ca180-987c-11ea-9f90-4a5596d1af47.png)
+    
+4.  Donatur dapat mengetahui keberhasilan pendonasian dapat ditunjukkan dengan tampilan website yang mengatakan bahwa __"Data agenda berhasil ditambahkan"__ <br>
 
+    ![Screenshot (615)](https://user-images.githubusercontent.com/49342639/82148329-b39d8400-987d-11ea-904a-aa1a36a69ca5.png)
+
+5.  Berikut merupakan Database sebagai penyimpan data para donatur <br>
+
+    ![Screenshot (617)](https://user-images.githubusercontent.com/49342639/82148202-12aec900-987d-11ea-9c73-2c555b4b1d01.png)
