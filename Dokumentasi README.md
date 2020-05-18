@@ -1,5 +1,5 @@
 # FinalProject-Pemrograman Integratif_05311840000013
-Nama : Rindi Kartika Sari 
+Nama : Rindi Kartika Sari <br>
 NRP : 05311840000013
 
 ## Dokumentasi Website MVC ~ Bantuan COVID-19
